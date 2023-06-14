@@ -3,7 +3,9 @@ This is the implementation of a database of Property Rental Agency (PRA) as a pa
 # Tech stack used in this project is:
 RDBMS - MySQL
 # contributors:
-Teerth Patel
-Vasu Bhadja
-Burhanuddin Tinwala
+● Teerth Patel
+
+● Vasu Bhadja
+
+● Burhanuddin Tinwala
 
